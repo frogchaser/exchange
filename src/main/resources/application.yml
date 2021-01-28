@@ -17,8 +17,8 @@ exchange:
 
 rates:
   base-uri: https://api.exchangeratesapi.io
-  symbols: USD, CAD, GBP, EUR
+  symbols: USD, CAD, GBP
 
 validator:
   amount: 1,2, 5, 10, 20, 50, 100
-  currency-code: USD, CAD, GBP, EUR
+  currency-code: USD, CAD, GBP

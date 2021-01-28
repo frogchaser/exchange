@@ -12,8 +12,7 @@ public enum CurrencyType {
 
     USD("USD", "UNITED STATES", "DOLLAR"),
     CAD("CAD", "CANADA", "DOLLAR"),
-    GBP("GBP", "UNITED KINGDOM", "POUND"),
-    EUR("EUR","EUROPEAN UNION","");
+    GBP("GBP", "UNITED KINGDOM", "POUND");
 
     private String code;
     private String countryName;
